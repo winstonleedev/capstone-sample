@@ -1,5 +1,7 @@
 # 💱 Utilitário de Câmbio e Conversor de Moedas
 
+![My diagram](images/diagram-1.png)
+
 Um utilitário web de conversão de moedas limpo, responsivo e baseado em Streamlit desenvolvido em Python.
 
 Este projeto demonstra uma arquitetura modular ao desacoplar a lógica de domínio pura em Python da camada de apresentação da interface do Streamlit, permitindo testes automatizados e alta confiabilidade.
